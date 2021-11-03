@@ -1290,6 +1290,20 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-sNHbdTPCI5 {
+  background: #ff7f9f;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #ff7f9f, #ffffff);
+}
+.cid-sNHbdTPCI5 .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-sNHbdTPCI5 .video-block {
+    width: 100% !important;
+  }
+}
 .cid-sNGiGW1bIL {
   padding-top: 30px;
   padding-bottom: 30px;
